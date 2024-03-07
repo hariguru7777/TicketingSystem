@@ -1,0 +1,1 @@
+INSERT INTO TRAIN (id, train_name, seat_capacity, coach_capacity) values (1, 'LondonFrance', 10, 2);
